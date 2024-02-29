@@ -1,6 +1,8 @@
 /** @format */
 
 module.exports = {
+  output: "export",
+  distDir: "dist",
   images: {
     remotePatterns: [
       {
